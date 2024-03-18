@@ -1,0 +1,1 @@
+# always-pass-gh-actions
